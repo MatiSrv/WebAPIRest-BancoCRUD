@@ -1,0 +1,12 @@
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\bin\Debug\net6.0\Aplicacion.deps.json
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\bin\Debug\net6.0\Aplicacion.dll
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\bin\Debug\net6.0\Aplicacion.pdb
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.AssemblyReference.cache
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfoInputs.cache
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.AssemblyInfo.cs
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.csproj.CoreCompileInputs.cache
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.dll
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\refint\Aplicacion.dll
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\Aplicacion.pdb
+D:\TUP\Programacion\Programas\bANCO\Aplicacion\obj\Debug\net6.0\ref\Aplicacion.dll
